@@ -1,0 +1,10 @@
+@-moz-document domain("modrinth.com") {
+.layout{background:black}
+.navigation{background: black}
+.navbar{background: black}
+.card{background: black}
+.columns{background: black}
+.dark-mode{background: black}
+.normal-page{background:black}
+
+}
